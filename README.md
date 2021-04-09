@@ -1,5 +1,7 @@
 # `Object.getOwnPropertyDescriptors` Proposal ([Polyfill](https://www.npmjs.com/package/object.getownpropertydescriptors))
 
+![Stage 4](https://badges.aleen42.com/src/tc39_5.svg)
+
 
 ## Champion
 
